@@ -9,3 +9,4 @@ note: pastikan membuka 3 cmd
 buka cmd lagi 
 ketik perintah npm install react-native-svg 
 
+yarn add --dev react-native-svg-transformer
